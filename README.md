@@ -9,14 +9,15 @@ I enjoy understanding how systems work, learning through laboratory practice and
 - **Currently exploring:** power systems, renewable energy, electrical machines and control systems
 - **Technical interests:** solar PV, energy storage, power distribution, MATLAB and automation
 - **Open to:** internships, apprenticeships, technical projects and learning opportunities
-- **Campus role:** Joint Secretary, Science & Technology Council, RGIPT Sivasagar
-- **Latest CPI shared:** 8.47 / 10
+- **Campus roles:** Joint Secretary, Science & Technology Council; Class Representative, Electrical Engineering, RGIPT Sivasagar
+- **Youth engagement:** MyGov Campus Ambassador and MY Bharat Volunteer
+- **Latest CPI shared:** 9.20 / 10
 
 ## Education
 
 | Programme | Institute | Details |
 |---|---|---|
-| Diploma in Electrical Engineering (2024–2027) | RGIPT, Sivasagar Campus | CPI: 8.47 / 10 (latest shared) |
+| Diploma in Electrical Engineering (2024–2027) | RGIPT, Sivasagar Campus | CPI: 9.20 / 10 (latest shared) |
 | Class XII · Science (2022) | Radiance Academy, Kalgachia | AHSEC · 73.4% |
 | Class X (2020) | KK Pathak High School, Kalgachia | SEBA · 87.5% |
 
@@ -43,7 +44,7 @@ Control-system simulations in MATLAB and 8085 assembly exercises involving data 
 
 ## Industrial exposure & learning
 
-- **N.F. Railway, Maligaon, Guwahati — Industrial Summer Training (15 days, 2026):** exposure to electrical systems, switchgear, power stations and operation and maintenance practices.
+- **N.F. Railway, Maligaon, Guwahati — Electrical Engineering Internship (15 days, 2026):** exposure to electrical systems, switchgear, power stations and operation and maintenance practices.
 - **ANRF One-week Seminar:** Hydrogen Technologies: Catalyzing the Clean Energy Transition.
 - **One-week Faculty Development Programme:** AI for Sustainable Mobility and Smart Industrial Drive Systems: Design, Modeling, and Applications.
 
@@ -51,7 +52,8 @@ Control-system simulations in MATLAB and 8085 assembly exercises involving data 
 
 - **Joint Secretary**, Science & Technology Council, RGIPT Sivasagar Campus.
 - **Viksit Vibrant Village Programme 2026:** selected among the Top 10 participants from Assam through the MY Bharat online quiz initiative.
-- **Class Representative**, Electrical Engineering, RGIPT Sivasagar Campus.
+- **MY Bharat Volunteer:** participating in youth engagement and community initiatives.
+- **MyGov Campus Ambassador:** promoting student participation in civic and public engagement initiatives.
 
 ## Connect
 
