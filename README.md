@@ -1,113 +1,67 @@
-# Hi, I'm Dulia Khan 👋
+# Dulia Khan
 
-### Electrical Engineering Student | Power Systems | Renewable Energy | AI & Automation
+**Diploma in Electrical Engineering · RGIPT Sivasagar · Power Systems · Renewable Energy · Automation**
 
-I'm an Electrical Engineering student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Sivasagar Campus, Assam, India**, with a strong academic foundation (CPI: 9.20/10 after 4th semester).
+I’m an Electrical Engineering diploma student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Sivasagar Campus, Assam, India**. I’m interested in power systems, electrical machines, renewable energy and the practical use of AI and automation in engineering.
 
-I'm passionate about building a career in **power systems engineering, renewable energy, and smart energy technologies**. I combine technical expertise with a commitment to solving real-world engineering challenges through innovation, continuous learning, and practical problem-solving.
+I enjoy understanding how systems work, learning through laboratory practice and turning technical concepts into useful projects.
 
-- 🔭 Currently exploring: power systems, renewable energy integration, and AI-driven engineering solutions
-- 🌱 Learning: advanced power electronics, control systems, AI applications, and automation
-- 👯 Open to: internships, research opportunities, technical projects, and industry collaborations
-- 💬 Ask me about: electrical power systems, renewable energy, MATLAB, AutoCAD, and practical engineering
-- 🎯 Goal: contribute to sustainable energy technologies and smart grid solutions
-- ⚡ Fun fact: Passionate about leveraging intelligent systems and clean energy to build a sustainable future
+- **Currently exploring:** power systems, renewable energy, electrical machines and control systems
+- **Technical interests:** solar PV, energy storage, power distribution, MATLAB and automation
+- **Open to:** internships, apprenticeships, technical projects and learning opportunities
+- **Campus role:** Joint Secretary, Science & Technology Council, RGIPT Sivasagar
+- **Latest CPI shared:** 8.47 / 10
 
-## About Me
+## Education
 
-I'm an engineering student with a strong academic record and hands-on industrial exposure. My career goal is to become an expert in power systems engineering and renewable energy, with a particular interest in applying AI and automation to create smarter, more sustainable energy solutions.
+| Programme | Institute | Details |
+|---|---|---|
+| Diploma in Electrical Engineering (2024–2027) | RGIPT, Sivasagar Campus | CPI: 8.47 / 10 (latest shared) |
+| Class XII · Science (2022) | Radiance Academy, Kalgachia | AHSEC · 73.4% |
+| Class X (2020) | KK Pathak High School, Kalgachia | SEBA · 87.5% |
 
-I combine technical depth with practical experience. Beyond coursework, I:
-- Actively contribute to campus initiatives as **Joint Secretary of the Science & Technology Council at RGIPT Sivasagar Campus**
-- Gained industrial exposure through **15-day training at N.F. Railway, Maligaon**, where I studied electrical switchgear, power stations, and O&M practices
-- Engage in technical learning and research-oriented project work
+## Technical interests & tools
 
-I'm committed to continuous improvement, quality engineering, and making meaningful contributions to the field of electrical engineering.
+- **Electrical engineering:** electrical machines, transformers, AC/DC motors, power systems, power distribution and electrical safety
+- **Renewable energy:** solar PV, rooftop solar, energy storage systems and energy efficiency
+- **Laboratory practice:** electrical measurements, circuit analysis, multimeters, oscilloscopes and basic troubleshooting
+- **Programming & software:** MATLAB, C/C++, 8085 assembly, MS Office and technical documentation
 
-## Technical Skills
+## Selected projects & technical work
 
-### Core Expertise
-- **Electrical Power Systems** – substation design, power distribution, electrical equipment
-- **Renewable Energy & Solar Technology** – solar power systems, energy efficiency, grid integration
-- **Power Electronics** – control circuits, power conversion
-- **Control Systems** – MATLAB-based analysis, system modeling
+### Solar Rooftop Installation Process
+A presentation exploring rooftop solar installation under Government of India and Assam schemes, with a 3 kW residential installation as a case study.
 
-### Tools & Software
-- **MATLAB** – simulation, system modeling, control system analysis
-- **AutoCAD** – electrical design and technical drawings
-- **Python** – engineering automation and data analysis (developing)
-- **Technical Documentation** – reports, presentations, engineering specifications
+### Energy Storage Systems
+A technical presentation covering battery technologies, battery energy storage systems (BESS) and lithium-ion systems.
 
-### Currently Developing
-- Embedded systems and microcontroller programming
-- AI/ML applications in power systems
-- Smart grid and IoT technologies
-- Advanced data analysis and visualization
+### CRUDO — Crude Oil to Everyday Life
+URJAPATH comic entry with team DBA – Energy Trailblazers, explaining the journey of crude oil into everyday products through visual storytelling.
 
-## Projects & Technical Work
+### MATLAB & 8085 Lab Work
+Control-system simulations in MATLAB and 8085 assembly exercises involving data transfer, arithmetic and logical operations.
 
-### ⚡ 33/11 kV Substation Study
-An in-depth exploration of substation design, components, and electrical equipment in power distribution networks.
+## Industrial exposure & learning
 
-- **Scope:** substation architecture, switchgear, transformers, protection systems
-- **Outcome:** strengthened understanding of real-world power infrastructure
-- **Skills applied:** technical analysis, power systems knowledge, engineering documentation
+- **N.F. Railway, Maligaon, Guwahati — Industrial Summer Training (15 days, 2026):** exposure to electrical systems, switchgear, power stations and operation and maintenance practices.
+- **ANRF One-week Seminar:** Hydrogen Technologies: Catalyzing the Clean Energy Transition.
+- **One-week Faculty Development Programme:** AI for Sustainable Mobility and Smart Industrial Drive Systems: Design, Modeling, and Applications.
 
-### 🏭 N.F. Railway Industrial Training (15 Days)
-Practical industrial exposure at N.F. Railway, Maligaon, focusing on electrical systems and operations.
+## Leadership & recognition
 
-- **Focus:** electrical switchgear, power stations, O&M practices, industrial electrical systems
-- **Location:** Maligaon, Assam
-- **Outcome:** practical insights into real-world engineering systems, industrial best practices, and operational challenges
-- **Key learnings:** hands-on experience with electrical equipment, maintenance protocols, and power management
+- **Joint Secretary**, Science & Technology Council, RGIPT Sivasagar Campus.
+- **Viksit Vibrant Village Programme 2026:** selected among the Top 10 participants from Assam through the MY Bharat online quiz initiative.
+- **Class Representative**, Electrical Engineering, RGIPT Sivasagar Campus.
 
-### 🚀 Ongoing & Future Projects
-Building a portfolio of practical engineering work focused on:
-- Power systems analysis and renewable energy integration
-- MATLAB-based simulations of electrical systems
-- AI applications in smart grid and energy optimization
-- Control systems and automation projects
+## Connect
 
-## Education & Certifications
+- **Portfolio:** https://dulia010.github.io/
+- **GitHub:** https://github.com/dulia010
+- **LinkedIn:** https://www.linkedin.com/in/dulia9098/
+- **Email:** dulia9098@gmail.com
 
-- **B.Tech in Electrical Engineering** – RGIPT, Sivasagar Campus (Current, CPI: 9.20/10)
-- **Gemini Certified Student** – Google for Education
-- **Fundamentals of Artificial Intelligence** – Wadhwani Foundation
-- **AI for Sustainable Mobility and Smart Industrial Drive Systems** – Faculty Development Programme participant
-- **N.F. Railway Industrial Training** – 15-day hands-on exposure (2024)
-
-## Leadership & Campus Activities
-
-- **Joint Secretary**, Science & Technology Council, RGIPT Sivasagar Campus
-- Active participant in technical learning programmes and engineering initiatives
-- Engagement with student-led technical activities and campus collaborations
-- Involvement in engineering research and project-based learning
-
-## Academic Highlights
-
-- **CPI:** 9.20/10 (as of 4th semester)
-- Strong foundation in electrical engineering fundamentals, mathematics, and technical subjects
-- Consistent focus on quality learning and practical skill development
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulia010&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulia010&layout=compact&theme=radical)
-
-## Connect With Me
-
-I'm always interested in technical discussions, project collaborations, and learning opportunities. Feel free to reach out!
-
-- 🌐 **Portfolio:**  https://dulia010.github.io/
-- 💻 **GitHub:**     https://github.com/dulia010
-- 🔗 **LinkedIn:**   https://www.linkedin.com/in/dulia9098/
-- 📧 **Email:**      dulia9098@gmail.com
-
-## My Vision
-
-> "Build a career in power systems and renewable energy, leveraging AI and intelligent technologies to create sustainable, efficient, and smarter energy solutions for the future."
+I’m interested in sustainable energy technologies and practical engineering. I look forward to learning, collaborating and contributing to meaningful projects.
 
 ---
 
-Thanks for visiting my profile! I'm eager to collaborate, learn, and contribute to meaningful engineering projects. Let's connect and build something impactful together! 🚀
+*This profile is a concise overview of my current academic journey and interests. For the latest work and updates, visit my [portfolio website](https://dulia010.github.io/).*
