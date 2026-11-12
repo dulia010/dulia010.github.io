@@ -30,18 +30,19 @@
 \n/* Accessibility and progressive-enhancement refinements */\n.skip-link{position:fixed;left:16px;top:12px;z-index:100;padding:10px 14px;border-radius:8px;background:var(--accent);color:#06120f;font-weight:800;transform:translateY(-160%);transition:transform .2s}.skip-link:focus{transform:translateY(0)}\n:focus-visible{outline:2px solid var(--accent);outline-offset:4px;border-radius:4px}\n.js .reveal:not(.visible){opacity:0;transform:translateY(22px)}\n.filter-status{margin-left:auto;align-self:center;color:var(--muted);font-size:.65rem;letter-spacing:.06em}\n.nav-links a[aria-current="location"]{color:var(--accent)}\n@media(max-width:680px){.filter-status{width:100%;margin:5px 0 0 3px}}\n</style>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 <div class="progress" id="progress"></div>
 <header class="topbar">
  <div class="wrap nav-inner">
   <a class="brand" href="#home" aria-label="Dulia Khan home">DK<span>.</span></a>
   <nav class="nav-links" id="navLinks" aria-label="Main navigation">
-   <a href="#about">About</a><a href="#education">Education</a><a href="#skills">Expertise</a><a href="#experience">Journey</a><a href="#projects">Projects</a><a href="#contact">Contact</a>
+   <a href="#about">About</a><a href="#education">Education</a><a href="#skills">Expertise</a><a href="#experience">Journey</a><a href="#leadership">Leadership</a><a href="#projects">Projects</a><a href="#contact">Contact</a>
   </nav>
   <a class="nav-cta" href="#contact">Let's connect <span class="accent">↗</span></a>
   <button class="menu-btn" id="menuBtn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="navLinks">☰</button>
  </div>
 </header>
-<main>
+<main id="main" tabindex="-1">
 <section class="hero" id="home">
  <div class="wrap hero-grid">
   <div class="hero-content">
